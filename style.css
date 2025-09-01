@@ -1,0 +1,79 @@
+:root {
+	--bg-color: #111113;
+	--accent: #953b8f;
+	--text: #f37c1f;
+	--white-text: #ecedef;
+	color: var(--text);
+}
+
+@font-face {
+	font-family: "Berkeley Mono";
+	src: url("fonts/BerkeleyMonoVariable-Regular.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: "Berkeley Mono", monospace;
+	margin: 4rem auto;
+	max-width: 40rem;
+	width: 90vw;
+	background-color: var(--bg-color);
+}
+
+#banner-img {
+	display: block;
+	margin: 20px auto;
+	width: 85%;
+}
+
+h1 {
+	margin-bottom: 1rem;
+	font-size: 2rem;
+	margin-left: -2rem;
+	color: var(--white-text);
+}
+
+.questions {
+	max-width: 50rem;
+	width: 80vw;
+	margin: 0 auto;
+	font-size: 1.2rem;
+}
+
+label {
+	display: block;
+	margin: -0.5rem 0;
+	text-indent: -2rem;
+}
+
+#calculate-score {
+	background-color: var(--text);
+	font-family: inherit;
+	color: var(--white-text);
+	border: 1px solid var(--white-text);
+	font-size: 1.2rem;
+	border-radius: 4px;
+}
+
+#calculate-score:hover {
+	background-color: #b25b18;
+}
+
+#calculate-score:active {
+	background-color: #444444;
+}
+
+#score-display {
+	margin: 1rem 0;
+	font-size: 1.5rem;
+}
+
+#score {
+	color: var(--accent);
+}
+
+.hidden {
+	display: none;
+}
