@@ -8,15 +8,15 @@ Set off the fire alarm?
 Committed an act of vandalism?
 Stolen a road sign?
 Gone on orange tours?
+Gone spelunking?
 Helped run orange tours?
 Gone hacking separate from tours?
 Gone hacking to 8+ distinct locations?
-Gotten caught hacking by a plant?
+Gotten caught hacking by a facilities worker?
 Gotten the police called on you for hacking?
 Gotten caught by the police hacking?
 Held hands romantically?
 Been on a date?
-Been on a date past 4am?
 Been in a relationship?
 Been Friends with Benefits for <2 weeks?
 Been Friends with Benefits for >2 weeks?
@@ -85,7 +85,7 @@ Run from the police?
 Been questioned by the police?
 Gotten arrested?
 Been convicted of a crime?
-Had a STI test due to reasonable suspicion?
+Had an STI test due to reasonable suspicion?
 Had a STI?
 Been sexually involved with more than one person at a time?
 Made love for personal gain? (drugs, information, etc.)
@@ -97,4 +97,4 @@ Had a pregnancy scare?
 Had an abortion or caused someone to need an abortion?
 Paid or been paid for a sexual act?
 Committed an act of incest?
-Engaged in bestiality? i
+Engaged in bestiality?
